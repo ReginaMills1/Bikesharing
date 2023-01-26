@@ -31,7 +31,7 @@ The seventh image shows the most popular starting locations in NYC, with median 
 ![Figure 7](/analysis/Figure7_TopStartingLocationsByIncome.png)
 
 ## Summary and Analysis
-The data shows that male subscribers are primary users of the bikesharing platform. The afternoon rushhour on Thursdays was the most popular time for subscribers, followed by other weekday rushhour times. Non-subscribers primarily use the bikesharing service on weekends. This indicates that subscribers primarily use the bikesharing service as their main means of transportation to-and-from work, while non-subscribers primarily use the bikesharing service for leisure on the weekends. 
+The data shows that male subscribers are primary users of the bikesharing platform. The afternoon rushhour on Thursdays was the most popular time for subscribers, followed by other weekday rushhour times. Non-subscribers primarily use the bikesharing service on weekends. This shows that subscribers primarily use the bikesharing service as their main means of transportation to-and-from work, while non-subscribers use the bikesharing service for leisure on the weekends. 
 Lower Manhattan was the most popular are for bikers.
 
 Additionally, I would recommend a chart displaying top starting locations overlayed with housing data to show what relationships, if any, exist between starting location and housing density. I would also recommend a chart displaying top starting locations overlayed with race/ethnicity data to show what relationships exist between race and bike usage. 
